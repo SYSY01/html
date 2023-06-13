@@ -10,7 +10,9 @@ ul{
 .wrap .section:nth-child(2){background: url(./images/sub.jpg) center/cover;}
 .wrap .section:nth-child(3){background: url(./images/product01.jpg) center/cover;}
 .wrap .section:nth-child(4){background: url(./images/product02.jpg) center/cover;}
-
+.wrap .section:nth-child(5){background: url(./images/product03.jpg) center/cover;}
+.wrap .section:nth-child(6){background: url(./images/product04.jpg) center/cover;}
+.wrap .section:nth-child(7){background: url(./images/product05.jpg) ;background-size: 100%;}
 .gnb{
     position: fixed;
     z-index: 10;
